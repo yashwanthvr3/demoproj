@@ -3,5 +3,6 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-
+    <Content Include="images\sysmedac.png" />
+    <Content Include="index.html" />
 </Project>
